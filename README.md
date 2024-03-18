@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react, unity and vr/ar apps.**
 
-- 💬 Ask me about **python, c++, R**
+- 💬 Ask me about how I'm doing. please
 
 - 📫 How to reach me **fermofou@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently intern on **Softtek**
 
-- 🌱 I’m currently learning **react, unity and vr/ar apps.**
+- 🌱 I’m currently learning **react and MLL.**
 
 - 💬 Ask me about ** web apps.**
 

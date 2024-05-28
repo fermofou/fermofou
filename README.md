@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react and Machine Learning Models**
 
-- 💬 Ask me about ** web apps.**
+- 💬 Ask me about **web apps.**
 
 - 📫 How to reach me **fermofou@gmail.com**
 

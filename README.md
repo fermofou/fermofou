@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Morán</h1>
 <h3 align="center">Software developer from México with proficiency in Python, c++ and developing web applications.</h3>
-- 📕 Studying **B.S. in Computer Science and Technology** at ITESM
+- 📕 Studying B.S. in Computer Science and Technology at ITESM
 
 - 🔭 Intern on **Softtek**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fermofou@gmail.com**
 
-- ⚡ Fun fact **I'm scared of birds.**
+- ⚡ Fun fact **I love Dr Pepper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

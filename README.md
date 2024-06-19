@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fernando Morán</h1>
 <h3 align="center">Software developer from México with proficiency in Python, c++ and developing web applications.</h3>
+
 - 🔭 Intern on **Softtek**
 
 - 🌱 I’m currently learning **react and Machine Learning Models**

@@ -3,15 +3,13 @@
 
 - 📕 Studying B.S. in Computer Science and Technology at **ITESM**
 
-- 🔭 Intern on **Softtek**
+- 🔭 Intern on **Softtek** as an Automation Engineer Jr
 
-- 🌱 I’m currently learning **react and Machine Learning Models**
-
-- 💬 Ask me about **web apps.**
+- 🌱 I’m currently learning **react, Machine Learning Models and Swift**
 
 - 📫 How to reach me **fermofou@gmail.com**
 
-- ⚡ Fun fact **I love Dr Pepper.**
+- ⚡ Visit <a href="https://fermofou.github.io">**my portfolio**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

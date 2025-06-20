@@ -5,7 +5,7 @@
 
 - 🔭 Intern on **MongoDB** , ex intern at Softtek
 
-- 🌱 I’m currently learning ** Machine Learning Models using AutoML**
+- 🌱 I’m currently learning **Machine Learning Models using AutoML**
 
 - 📫 How to reach me **fermofou@gmail.com**
 
